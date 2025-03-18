@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# from numpy import NaN as npNaN
 from numpy import NaN as npNaN
 from pandas import DataFrame
 from pandas_ta.momentum import mom
